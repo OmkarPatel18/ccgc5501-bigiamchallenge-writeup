@@ -1,4 +1,4 @@
-# Personal AWS Environment Setup Reflection
+# AWS Environment Setup
 
 ## Introduction
 Setting up my personal AWS environment was an invaluable experience that helped me gain a practical understanding of AWS Identity and Access Management (IAM) and cloud security fundamentals. In this reflection, I will discuss the security practices I implemented, the importance of using an IAM admin user in addition to the root account, the challenges I faced during setup, and my overall learning from the process.
