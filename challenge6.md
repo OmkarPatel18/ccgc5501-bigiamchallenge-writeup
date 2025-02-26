@@ -1,4 +1,4 @@
-# CloudFoxable CTF - Challenge 1: "Do This First!"
+# CloudFoxable - Challenge 1: "Do This First!"
 
 ## Overview
 CloudFoxable is a Terraform-based AWS security challenge designed to help users identify security misconfigurations in cloud environments. This write-up documents the steps taken to deploy the CloudFoxable environment, retrieve the first flag, and clean up the deployed resources.
