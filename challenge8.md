@@ -1,4 +1,4 @@
-# CloudFoxable Challenge: "It's a Secret" – GitHub Writeup
+# CloudFoxable Challenge: "It's a Secret"
 
 # Overview
 This writeup documents the steps taken to complete the "It's a Secret" challenge as part of the CloudFoxable Lab. The objective of this challenge was to:
@@ -20,6 +20,7 @@ Before starting the challenge, the following tools and configurations were requi
 ### CloudFoxable Deployment
 Navigate to the CloudFoxable Directory I navigated to the CloudFoxable directory where the lab environment was deployed:
 cd ~/cloudfoxable/aws
+
 Deploy the Challenge The challenge was already deployed, so no additional Terraform deployment was needed. However, if redeployment was necessary, the following commands would be used:
 terraform apply
 This would provision the necessary AWS resources, including IAM policies and secrets.
