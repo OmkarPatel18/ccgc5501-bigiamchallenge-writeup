@@ -109,7 +109,7 @@ Privilege escalation techniques using assumed roles
 AWS resource enumeration using AWS CLI and CloudFox
 Extracting sensitive secrets from AWS Secrets Manager
 
-This exercise demonstrated the importance of IAM role security and proper access control in AWS environments. 🚀
+This exercise demonstrated the importance of IAM role security and proper access control in AWS environments.
 
 ## Commands Used
 
